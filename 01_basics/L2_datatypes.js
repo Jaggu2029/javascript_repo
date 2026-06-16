@@ -11,7 +11,7 @@ let isLoggedIn = true
 
 // null standalone value 
 //example  let temp ; => undefined
-//         let temp=null ---> khali nahi hai 
+//         let temp=null ---> khali nahi hai  null is the representation of empty value
 //symbol => unique
 
 // object
