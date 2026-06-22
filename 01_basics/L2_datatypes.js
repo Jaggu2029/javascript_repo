@@ -19,3 +19,4 @@ console.log(typeof age ); // number
 console.log(typeof "pawan" ); // string
 console.log(typeof null ); // object
 console.log(typeof undefined ); //undefined 
+// node 01_basics/L2_datatypes.js

@@ -20,3 +20,4 @@ console.log(typeof value_in_number1)
 //if input above is true then val_in no is 1
 //if input above is "hoe" (string me kuch to hai) then convert it to bool we get 1 else 0 in ""(empty string)
 
+// node 01_basics/L3_conversions.js
