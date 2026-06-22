@@ -18,3 +18,4 @@ userTwo.email1 = "chai@gmail.com"
 console.log(userOne.email1)
 console.log(userTwo.email1)
 // its a heap memory means two (example here) objects are pointing in same dirn if changes made in one of them then it can be seen in both of them
+// node 01_basics/L7_memory.js

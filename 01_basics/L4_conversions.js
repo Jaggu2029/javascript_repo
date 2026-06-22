@@ -10,3 +10,5 @@ console.log(1+2 +"2") // left side me agar number dt hai then pehle woh add hong
 
 console.log(+true) // 1
 console.log(+"") // 0
+
+// node 01_basics/L4_conversions.js
