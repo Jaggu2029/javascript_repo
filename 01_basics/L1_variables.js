@@ -10,3 +10,4 @@ AccountCity="washington";
 
 console.table([AccountId,AccountEmail,AccountPassword,AccountCity,AccountState])
 
+// node 01_basics/L1_variables.js
